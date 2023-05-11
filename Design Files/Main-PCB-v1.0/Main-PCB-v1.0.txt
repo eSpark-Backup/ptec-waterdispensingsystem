@@ -1,0 +1,37 @@
+Board Information Report
+Filename     : E:\ptec-waterdispensingsystem\Design Files\Main-PCB-v1.0\Main-PCB-v1.0.PcbDoc
+Date         : 5/11/2023
+Time         : 6:52:59 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 8760milsx2778mils
+    Components on board, 252
+count : 2
+
+Routing Information
+    Routing completion, 49.47%
+    Connections, 570
+    Connections routed, 282
+    Connections remaining, 288
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 737, 0, 414, 0, 145, 0, 0
+    Bottom Layer, 0, 0, 0, 120, 0, 0, 0, 0
+    Dimension, 0, 0, 0, 16, 2, 0, 0, 230
+    Board Outline, 0, 0, 0, 4, 0, 0, 0, 0
+    Multi-Layer, 0, 72, 105, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 4, 0, 0, 1375, 514, 114, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 3075, 1, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 14
+
+Drill Pairs, Vias
+count : 0
