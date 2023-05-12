@@ -1,7 +1,7 @@
 Board Information Report
 Filename     : E:\ptec-waterdispensingsystem\Design Files\Main-PCB-v1.0\Main-PCB-v1.0.PcbDoc
-Date         : 5/11/2023
-Time         : 6:52:59 PM
+Date         : 5/12/2023
+Time         : 7:03:54 PM
 Time Elapsed : 00:00:00
 
 General
@@ -10,23 +10,23 @@ General
 count : 2
 
 Routing Information
-    Routing completion, 49.47%
+    Routing completion, 75.09%
     Connections, 570
-    Connections routed, 282
-    Connections remaining, 288
+    Connections routed, 428
+    Connections remaining, 142
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 0, 737, 0, 414, 0, 145, 0, 0
-    Bottom Layer, 0, 0, 0, 120, 0, 0, 0, 0
+    Top Layer, 0, 737, 0, 677, 0, 259, 0, 0
+    Bottom Layer, 0, 0, 0, 255, 0, 22, 0, 0
     Dimension, 0, 0, 0, 16, 2, 0, 0, 230
     Board Outline, 0, 0, 0, 4, 0, 0, 0, 0
-    Multi-Layer, 0, 72, 105, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 72, 228, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
-    Top Overlay, 4, 0, 0, 1375, 514, 114, 0, 0
+    Top Overlay, 4, 0, 0, 4450, 521, 114, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
-    Bottom Overlay, 0, 0, 0, 3075, 1, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
     Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
