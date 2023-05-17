@@ -80,6 +80,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFAQUJUA
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for TFT-LCD-Side-PCB-v1.0\Design Rule Check - Side_PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
