@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [TFT-LCD-Side-PCB-v1.0.PrjPcb]
+   Generated File[Side_PCB-RoundHoles.TXT]
+   Generated File[Side_PCB-SlotHoles.TXT]
+   Generated File[Side_PCB.LDP]
+   Generated File[Side_PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:27:53 PM On 6/15/2023
