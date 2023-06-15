@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[Pick Place for Main-PCB-v1.0-3.txt]
+   Generated File[Pick Place for Main-PCB-v1.0-3.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 5:23:22 PM On 6/15/2023
